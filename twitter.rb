@@ -21,6 +21,9 @@ def twitter(command, type=:get, opts={})
     end
  
     req.basic_auth($username, $password)
+    
+    response = twitter.request_head('/snf')
+    puts "Status: " + response['status']
  
     return Hpricot(twitter.request(req).body)
 end
@@ -39,16 +42,12 @@ doc = twitter('/statuses/update.xml', :post, {:status => "First tweet"})
     following_back = (st/'follow').inner_html
     created_at = (st/'created_at').inner_html
     status_id = (st/'id').inner_html
-    
-
- 
     puts "#{status_id}: #{text}"
-    
-    (doc/'hash').each do |response|
-      request = (response/'request').inner_html
-      error = (response/'error').inner_html
-      puts "#{request}"
-      puts "#{error}"
-    end
 end
 
+(doc/'hash').each do |response|
+  request = (response/'request').inner_html
+  error = (response/'error').inner_html
+  puts "#{request}"
+  puts "#{error}"
+end

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Tue Apr 21 18:10:18 +0000 2009</created_at>
+    <id>1577084024</id>
+    <text>Amazing. ASCII animated Star Wars inside your terminal - http://is.gd/nToY</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>111</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>0</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue Apr 21 17:41:57 +0000 2009</created_at>
+    <id>1576851539</id>
+    <text>5000 Lists of 78 Items Consisting of How Or How Not To Do Stuff Or Maybe of Pictures Or Worpress Themes - http://www.smashingmagazine.com/</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>111</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>0</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue Apr 21 17:17:58 +0000 2009</created_at>
+    <id>1576654557</id>
+    <text>@incredimarc That means you are a winner too.</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1576596579</in_reply_to_status_id>
+    <in_reply_to_user_id>14150580</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>incredimarc</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue Apr 21 15:00:49 +0000 2009</created_at>
+    <id>1575526900</id>
+    <text>Very interesting article regarding the introduction of mobile application interfaces to desktop apps: http://bit.ly/hYJ4Q (via @frivmo)</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue Apr 21 02:45:45 +0000 2009</created_at>
+    <id>1571653754</id>
+    <text>Testing cURL</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 23:10:51 +0000 2009</created_at>
+    <id>1569929799</id>
+    <text>It seems that only the best and brightest pot smokers have gathered downtown for 4/20.</text>
+    <source>&lt;a href="http://help.twitter.com/index.php?pg=kb.page&amp;id=75"&gt;txt&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 22:03:42 +0000 2009</created_at>
+    <id>1569402843</id>
+    <text>@derekbalmer Was it because he wouldn't hold your hand?</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1569336765</in_reply_to_status_id>
+    <in_reply_to_user_id>14336710</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>derekbalmer</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>111</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>606</statuses_count>
+      <notifications>0</notifications>
+      <following>0</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 21:41:21 +0000 2009</created_at>
+    <id>1569220523</id>
+    <text>@limbercreative Looks great - nice work. Some pretty clever stuff going on there if you know where to look.</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1568894861</in_reply_to_status_id>
+    <in_reply_to_user_id>18058262</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>limbercreative</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 19:53:21 +0000 2009</created_at>
+    <id>1568332586</id>
+    <text>@derekbalmer Maybe he's happy because he escaped the infinite loop.</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1568303241</in_reply_to_status_id>
+    <in_reply_to_user_id>14336710</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>derekbalmer</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>111</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>606</statuses_count>
+      <notifications>0</notifications>
+      <following>0</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 19:52:18 +0000 2009</created_at>
+    <id>1568323743</id>
+    <text>@snf was here before @replies http://herebeforeatreplies.com #herebeforeatreplies</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id>3557601</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>SNF</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 19:45:08 +0000 2009</created_at>
+    <id>1568264591</id>
+    <text>@derekbalmer Dude, that is great. Stashed!</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1567731191</in_reply_to_status_id>
+    <in_reply_to_user_id>14336710</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>derekbalmer</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>111</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>606</statuses_count>
+      <notifications>0</notifications>
+      <following>0</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 13:12:22 +0000 2009</created_at>
+    <id>1565215936</id>
+    <text>Tweetie for Mac is pretty damn slick. http://is.gd/r9H8</text>
+    <source>&lt;a href="http://www.atebits.com/"&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 05:25:29 +0000 2009</created_at>
+    <id>1563323454</id>
+    <text>Great win for the Nugs. We just saw Chauncey's true value. #nuggets</text>
+    <source>&lt;a href="http://www.tweetdeck.com/"&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Mon Apr 20 00:52:55 +0000 2009</created_at>
+    <id>1561715284</id>
+    <text>@HeroStudio Or steroids.</text>
+    <source>&lt;a href="http://www.tweetdeck.com/"&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1561461616</in_reply_to_status_id>
+    <in_reply_to_user_id>18701352</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>HeroStudio</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Sun Apr 19 01:09:56 +0000 2009</created_at>
+    <id>1554865697</id>
+    <text>Here is a picture of a machete. http://mtile.us/snf</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Sun Apr 19 00:47:17 +0000 2009</created_at>
+    <id>1554728190</id>
+    <text>I think The Onion's logo looks more like garlic than an onion.</text>
+    <source>&lt;a href="http://help.twitter.com/index.php?pg=kb.page&amp;id=75"&gt;txt&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Fri Apr 17 20:21:35 +0000 2009</created_at>
+    <id>1545232711</id>
+    <text>Bears' kicker Robbie Gould singing the stretch in Chicago. Wow. Not bad for a kicker I guess. But I was laughing.</text>
+    <source>&lt;a href="http://www.tweetdeck.com/"&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Fri Apr 17 18:07:09 +0000 2009</created_at>
+    <id>1544128726</id>
+    <text>It's nice to be in dev mode after being in design mode for the last couple of weeks. I missed you Rails! (No offense CS).</text>
+    <source>&lt;a href="http://www.tweetdeck.com/"&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Fri Apr 17 17:58:00 +0000 2009</created_at>
+    <id>1544054775</id>
+    <text>@limbercreative I was just about to ask if you had rebooted 3 times. :)</text>
+    <source>&lt;a href="http://www.tweetdeck.com/"&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>1544026185</in_reply_to_status_id>
+    <in_reply_to_user_id>18058262</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>limbercreative</in_reply_to_screen_name>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+  <status>
+    <created_at>Fri Apr 17 16:55:30 +0000 2009</created_at>
+    <id>1543550874</id>
+    <text>RT @cbb: CNN/Kutcher should tell followers to: Text NET to 90999 to Give $5 to Malaria No More. That'd make the stunt meaningful. Thoughts?</text>
+    <source>&lt;a href="http://www.tweetdeck.com/"&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name/>
+    <user>
+      <id>3557601</id>
+      <name>Danny Weaver</name>
+      <screen_name>SNF</screen_name>
+      <location>Denver, CO</location>
+      <description>I type stuff and then when I'm done with that a website happens. </description>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/148404469/drew2_normal.jpg</profile_image_url>
+      <url>http://www.supernaturalfeat.com</url>
+      <protected>false</protected>
+      <followers_count>112</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>6C9BB2</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+      <friends_count>113</friends_count>
+      <created_at>Thu Apr 05 20:56:41 +0000 2007</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-25200</utc_offset>
+      <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/3092661/chair_lg.jpg</profile_background_image_url>
+      <profile_background_tile>false</profile_background_tile>
+      <statuses_count>610</statuses_count>
+      <notifications>false</notifications>
+      <following>false</following>
+    </user>
+  </status>
+</statuses>

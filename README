@@ -1,0 +1,6 @@
+Create config.rb and add:
+
+$username = your_username
+$password = your_password
+
+config.rb is in gitignore
